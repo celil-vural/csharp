@@ -1,0 +1,8 @@
+C:\sources\c#\BuilderDeseni\bin\Debug\BuilderDeseni.exe.config
+C:\sources\c#\BuilderDeseni\bin\Debug\BuilderDeseni.exe
+C:\sources\c#\BuilderDeseni\bin\Debug\BuilderDeseni.pdb
+C:\sources\c#\BuilderDeseni\obj\Debug\BuilderDeseni.csproj.AssemblyReference.cache
+C:\sources\c#\BuilderDeseni\obj\Debug\BuilderDeseni.csproj.SuggestedBindingRedirects.cache
+C:\sources\c#\BuilderDeseni\obj\Debug\BuilderDeseni.csproj.CoreCompileInputs.cache
+C:\sources\c#\BuilderDeseni\obj\Debug\BuilderDeseni.exe
+C:\sources\c#\BuilderDeseni\obj\Debug\BuilderDeseni.pdb

@@ -1,0 +1,7 @@
+EntityFramework (ORM)
+NHibernate (ORM)
+FluentValidation
+Ninject (injection ioc)
+Postsharp (Aspect yazmak için)
+moq (fake data kullanabildiğin test paketi)
+ILSpy (dll dosyalarını kod olarak son halde görmemiz için)

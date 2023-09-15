@@ -1,0 +1,16 @@
+C:\sources\c#\RecapProject1\RecapProject1\bin\Debug\RecapProject1.exe.config
+C:\sources\c#\RecapProject1\RecapProject1\bin\Debug\RecapProject1.exe
+C:\sources\c#\RecapProject1\RecapProject1\bin\Debug\RecapProject1.pdb
+C:\sources\c#\RecapProject1\RecapProject1\bin\Debug\EntityFramework.dll
+C:\sources\c#\RecapProject1\RecapProject1\bin\Debug\EntityFramework.SqlServer.dll
+C:\sources\c#\RecapProject1\RecapProject1\bin\Debug\EntityFramework.xml
+C:\sources\c#\RecapProject1\RecapProject1\bin\Debug\EntityFramework.SqlServer.xml
+C:\sources\c#\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.AssemblyReference.cache
+C:\sources\c#\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.SuggestedBindingRedirects.cache
+C:\sources\c#\RecapProject1\RecapProject1\obj\Debug\RecapProject1.Form1.resources
+C:\sources\c#\RecapProject1\RecapProject1\obj\Debug\RecapProject1.Properties.Resources.resources
+C:\sources\c#\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.GenerateResource.cache
+C:\sources\c#\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.CoreCompileInputs.cache
+C:\sources\c#\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.CopyComplete
+C:\sources\c#\RecapProject1\RecapProject1\obj\Debug\RecapProject1.exe
+C:\sources\c#\RecapProject1\RecapProject1\obj\Debug\RecapProject1.pdb

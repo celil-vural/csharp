@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZdjxhgZdiccNuaSymq+hjExHRnDz2/nbk9qEOU5zMswYQ0gJ3RQPAaz8Br6UwA+jv3wBk6MPiG4al9/56ETgA==",
+  "success": true,
+  "projectFilePath": "C:\\sources\\dotnet web\\Courses\\AspNetCoreWebApi\\Applications\\basics\\hello_world_api_ui\\hello_world_api_ui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\celil\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\celil\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\celil\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\celil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\celil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\sources\c#\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+C:\sources\c#\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+C:\sources\c#\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+C:\sources\c#\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\sources\c#\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\sources\c#\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\sources\c#\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\sources\c#\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.AssemblyReference.cache
+C:\sources\c#\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.SuggestedBindingRedirects.cache
+C:\sources\c#\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+C:\sources\c#\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+C:\sources\c#\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+C:\sources\c#\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\sources\c#\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+C:\sources\c#\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+C:\sources\c#\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb

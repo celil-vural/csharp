@@ -1,0 +1,8 @@
+C:\sources\c#\AdoNetDemo\Delegates\bin\Debug\Delegates.exe.config
+C:\sources\c#\AdoNetDemo\Delegates\bin\Debug\Delegates.exe
+C:\sources\c#\AdoNetDemo\Delegates\bin\Debug\Delegates.pdb
+C:\sources\c#\AdoNetDemo\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\sources\c#\AdoNetDemo\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+C:\sources\c#\AdoNetDemo\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\sources\c#\AdoNetDemo\Delegates\obj\Debug\Delegates.exe
+C:\sources\c#\AdoNetDemo\Delegates\obj\Debug\Delegates.pdb

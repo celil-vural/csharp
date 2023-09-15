@@ -1,0 +1,17 @@
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Entities.dll
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Entities.pdb
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\sources\dotnet web\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\ref\Repositories.dll

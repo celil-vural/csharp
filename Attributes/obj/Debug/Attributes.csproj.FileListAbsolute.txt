@@ -1,0 +1,8 @@
+C:\sources\c#\Attributes\bin\Debug\Attributes.exe.config
+C:\sources\c#\Attributes\bin\Debug\Attributes.exe
+C:\sources\c#\Attributes\bin\Debug\Attributes.pdb
+C:\sources\c#\Attributes\obj\Debug\Attributes.csproj.AssemblyReference.cache
+C:\sources\c#\Attributes\obj\Debug\Attributes.csproj.SuggestedBindingRedirects.cache
+C:\sources\c#\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\sources\c#\Attributes\obj\Debug\Attributes.exe
+C:\sources\c#\Attributes\obj\Debug\Attributes.pdb

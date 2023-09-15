@@ -1,0 +1,8 @@
+C:\sources\c#\Singleton\bin\Debug\Singleton.exe.config
+C:\sources\c#\Singleton\bin\Debug\Singleton.exe
+C:\sources\c#\Singleton\bin\Debug\Singleton.pdb
+C:\sources\c#\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\sources\c#\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+C:\sources\c#\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\sources\c#\Singleton\obj\Debug\Singleton.exe
+C:\sources\c#\Singleton\obj\Debug\Singleton.pdb

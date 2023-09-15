@@ -1,0 +1,17 @@
+C:\sources\c#\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\sources\c#\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\sources\c#\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\sources\c#\Helpers.Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\sources\c#\Helpers.Test\bin\Debug\Helpers.Test.dll
+C:\sources\c#\Helpers.Test\bin\Debug\Helpers.Test.pdb
+C:\sources\c#\Helpers.Test\bin\Debug\HelpersForUnitTestDemo.dll
+C:\sources\c#\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\sources\c#\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\sources\c#\Helpers.Test\bin\Debug\HelpersForUnitTestDemo.pdb
+C:\sources\c#\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\sources\c#\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\sources\c#\Helpers.Test\obj\Debug\Helpers.Test.csproj.AssemblyReference.cache
+C:\sources\c#\Helpers.Test\obj\Debug\Helpers.Test.csproj.CoreCompileInputs.cache
+C:\sources\c#\Helpers.Test\obj\Debug\Helpers.Test.csproj.CopyComplete
+C:\sources\c#\Helpers.Test\obj\Debug\Helpers.Test.dll
+C:\sources\c#\Helpers.Test\obj\Debug\Helpers.Test.pdb
